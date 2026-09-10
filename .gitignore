@@ -1,0 +1,16 @@
+# Environments
+venv/
+env/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Django stuff
+db.sqlite3
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
